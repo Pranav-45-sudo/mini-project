@@ -1,1 +1,1 @@
-# mini-project
+# mentee network
